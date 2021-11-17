@@ -9,7 +9,7 @@ jobs:
       - run:
           name: Test
           command: |
-            echo "Hello world!"
+            echo "Hello world! 2"
 
 workflows:
   build:
