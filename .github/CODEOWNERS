@@ -1,0 +1,9 @@
+* @maintainers
+
+/.circleci/ @cimaintainers
+/.github/ @cimaintainers
+
+/api/ artem.horuzhenko@softeq.com
+/ui/ egor.zalenski@softeq.com
+
+
